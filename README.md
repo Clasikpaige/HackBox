@@ -48,11 +48,11 @@ Contributions to this repository are welcome. If you have additional payloads, s
 ## Disclaimer
 
 This repository is intended for educational and ethical purposes only. The tools, payloads, and scripts provided should be used responsibly, with the proper authorization and in accordance with applicable laws and regulations. The repository owners and contributors assume no responsibility for any misuse or illegal activities performed with the resources provided.
+---
 
 Please use this repository responsibly and respect the importance of ethical hacking practices.
 
 
 
----
 
-This documentation serves as a starting point for the "penetration-testing-toolbox" repository. Feel free to customize and expand it based on your specific needs and requirements. Remember to include any additional sections, instructions, or acknowledgments that may be necessary.
+
